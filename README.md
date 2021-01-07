@@ -13,8 +13,8 @@ Kafka Demo Using Docker & Node.js
 
 * run `npm install`
 * run `docker-compose up`
-* open a new terminal tab and run `npm start consumer`
-* open a new terminal tab and run `npm start producer`
+* open a new terminal tab and run `npm run consumer`
+* open a new terminal tab and run `npm run producer`
 
 You can now see the producer tab making new messages and the consumer tab reading those messages. You can start more producers (while still running 1 consumer) and see more messages coming in.
 
